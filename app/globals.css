@@ -30,6 +30,7 @@ body {
   grid-template-rows: 80px 1fr;
   background-color: var(--bg);
   color: white;
+  min-height: 100vh;
 }
 
 a {
