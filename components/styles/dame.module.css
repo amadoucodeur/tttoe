@@ -1,5 +1,5 @@
-.dame{
-    display: grid;
-    grid-template-columns: repeat(3,80px);
-    gap: 3px;
+.dame {
+  display: grid;
+  grid-template-columns: repeat(3, 80px);
+  gap: 3px;
 }
